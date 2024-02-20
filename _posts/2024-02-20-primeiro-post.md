@@ -11,11 +11,12 @@ layout: post
 
 A um tempo que venho escrevendo sobre algumas coisas da vida com um todo. E achei justo poder escrever o quanto quiser e da forma que quiser personalizar, num espaço como esse, com cara de blog dos anos 2000, para chamar de meu (e do gitHub).
 
-***Existe algo mágico na escrita**
+
+**Existe algo mágico na escrita**
 
 Poder ter acesso a cabeça de outras pessoas: seus pensamentos e suas formas de expressa-los.
 Para mim, escrever é como dosar a vida exterior com a interior. "O silêncio com o ruído". E quando você pode compartilhar um sentimento oportuno, uma idéia útil, algo que precise ser dito, corre o risco de tocar o outro e acender outras chamas.
-Importo-me, também, com o que não é dito. O que da valor a sua alma é a riqueza do ela não diz.(A. -D. Sertillanges, 2019). Por isso, espe ver coisas boas por aqui. 
+Importo-me, também, com o que não é dito. O que da valor a sua alma é a riqueza do ela não diz. (A. -D. Sertillanges, 2019) Por isso, espe ver coisas boas por aqui. 
 
 Tenho alguns textos guardados que virão logo pra cá, então aguarde...
 
