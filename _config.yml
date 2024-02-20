@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Bruno de Castro
 description: Blog pessoal.
+
+title: Lutz Lobo
+email: brunoruandecastro@gmail.com
+description: As dose organizadas do que encontro entre o silêncio e o ruído da vida.
+baseurl: ""
+url: ""
+twitter_username:
+instagram_username: brunoruaan
+
+theme: minima
+plugins:
+  - jekyll-feed
