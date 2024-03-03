@@ -1,3 +1,4 @@
+---
 title: Bruno Ruan
 email: brunoruandecastro@gmail.com
 description: As doses organizadas do que encontro entre o silêncio e o ruído da vida.
@@ -6,6 +7,8 @@ url: ""
 twitter_username:
 instagram_username: brunoruaan
 
+layout: default
 theme: minima
 plugins:
   - jekyll-feed
+---
