@@ -6,3 +6,10 @@ filename: test-new-post
 tags: 
 layout: post
 ---
+
+## teste
+
+- other test
+
+* teste
++teste
