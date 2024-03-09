@@ -1,16 +1,19 @@
 ---
 share: true
-title: test-new-post
+title: Software e 
 date: 2024-03-03
 
 filename: 2024-03-03-test-new-post
 tags: 
 layout: post
 ---
+## img eras de software
 
-## teste
+<img src= "./images/eras-de-software.png">
 
-- other test
+## imagem eras de software - link
 
-* teste
-+teste
+![Eras de Software](https://drive.google.com/file/d/13IIb6r_TskTrUHJoUxnbAYRtADozg-Sx/view?usp=drive_link)
+### Referências
+
+BRUNO, R. C. Arquiteturas e Padrões de Projeto no Desenvolvimento de Software: Uma Análise Comparativa e Quantiva. 2023. Disponível em: [Meu Drive pessoal.](https://drive.google.com/file/d/1BBEyQYH-4xGppTguzkogAvD6wqnp-1JJ/view?usp=sharing) 
