@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-<img src= "../images/eras-de-software.png">
+![Eras de Software](../images/eras-de-software.png)
 
 ### Referências
 
