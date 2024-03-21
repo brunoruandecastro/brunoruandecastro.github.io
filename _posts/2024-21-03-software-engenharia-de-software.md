@@ -25,17 +25,17 @@ No contexto atual, a evolução tecnológica e a interconectividade têm gerado 
 Portanto, afirma-se que sua caracterização vai além de meras estruturas de dados e requer uma abordagem especializada para garantir sua confiabilidade e segurança. Partindo do reconhecimento de suas peculiaridades e adotando abordagens apropriadas, fortalece-se a base para a construção de um futuro tecnológico mais sólido e confiável.
 
 
-*Considerações Finais*
+**Considerações Finais**
 
 À medida das primeiras décadas da era computacional, o principal foco era desenvolver um hardware que reduzisse o custo e tempo de processamento e armazenamento de dados. Já durante a década de 1980, avanços na microeletrônica transformaram um poder de computação cada vez maior e componentes cada vez menores a custos cada vez mais baixos. Hoje o problema é diferente. Deve-se principalmente a qualidade e redução do custo de soluções baseadas no software. Visto que atualmente o poder de, por exemplo, um notebook como MacBook com um processador Intel i7 de quatro núcleos, rodando a 2.8 gigahertz cada, com 16 gigabyte de RAM, um terabyte de SSD e um display de retina, com resolução máxima de 2880X1800 pixels, tem uma diferença extraordinária em relação ao poder computacional de antigos computadores de meio século atrás. Uma análise razoável mostrará que esse MacBook, que nem é o mais atual, tem pelo menos 1022 vezes mais capacidade em relação a computadores das primeiras eras computacionais. O software é o meio que torna possível o bom uso desse potencial.
 
 Com base nos últimos tópicos descritos em eras, podemos concluir que de fato o hardware evoluiu, linguagens de programação ficaram melhores, ferramentas nesse ecossistemas de software tiveram uma enorme evolução, bem como o surgimento de frameworks e paradigmas da programação trouxeram uma visão sobre maneiras de se programar. Mas a base que compõem um programa de computador não foi alterada. O que deve ser elucidado é que o código continua sendo feito com os mesmos elementos. Formado por declaração de condição, declarações de atribuição e laços de repetição. Assim como nos anos iniciais de 1950 e 1960, ainda é formado por várias sequências, seleções e iterações.
 
-### engenharia de software 
+### Engenharia de Software 
 
 A Engenharia de Software é a disciplina que visa manter o uso sólido de princípios de engenharia, orientados a produzir-se um software que seja economicamente viável, confiável e que consiga interagir adequadamente com o hardware. Seu objetivo é auxiliar os desenvolvedores de software, gerentes e engenheiros de maneira prática, visando melhorar a qualidade dos produtos desenvolvidos e permitir a expressão adequada de modelos de domínio. Essa área do conhecimento busca utilizar metodologias e práticas eficientes para o desenvolvimento, manutenção e evolução do software ao longo de seu ciclo de vida, garantindo a entrega de produtos de alta qualidade que atendam às necessidades e também as expectativas dos usuários.
 
-*O Ciclo de Vida*
+**O Ciclo de Vida**
 
 O software passa por diversas fases em sua vida útil, essas fases são organizadas contendo um
 conjunto comum de estágios, podendo serem descritas em: exploração do conceito, atividades
@@ -75,7 +75,8 @@ portanto, guiado pela necessidade intrínseca do contexto.
 Dito isso, abaixo estão pontuados, brevemente, alguns dos estágios mais comuns no ciclo de
 vida de um software.
 
-*Análise*
+
+**Análise**
 
 O processo de coleta dos requisitos é intensificado e concentrado especificamente no
 software. Para entender a natureza dos programas a serem construídos, o profissional analista
@@ -83,7 +84,8 @@ de software deve compreender o domínio da informação para o software, bem com
 desempenho e interface exigida. Os requisitos tanto para o sistema como para o software, são
 documentados e revistos com o cliente.
 
-*Projeto*
+
+**Projeto**
 
 O projeto é a fase responsável por recolher os requisitos de software e transformar em um
 conjunto de representações do modelo do negócio, podendo ser em gráficos, tabulações ou
@@ -94,14 +96,16 @@ numa representação do software que pode ser avaliada quanto à qualidade antes
 codificação se inicie. Como requisito, o projeto é documentado e torna-se parte da
 configuração do software.
 
-*Codificação*
+
+**Codificação**
 
 Todo o projeto e a idealização da resolução dos problemas de determinado domínio de projeto
 devem ser desenvolvidos por uma linguagem de programação, compilada ou interpretada por
 máquina. A etapa de codificação é responsável por este papel. Dada esta codificação,
 consegue-se executar mecanicamente os processos eletrônicos do hardware responsável.
 
-*Testes*
+
+**Testes**
 
 Assim que o código for escrito ou até mesmo antes da codificação propriamente dita de as
 funcionalidades do projeto serem desenvolvidas – tem-se TDD (Test Driven Development)
@@ -112,7 +116,8 @@ programa. O processo de realização de testes é orientado pelos aspectos lógi
 domínio do software, ou seja, é preparado um determinado cenário, executado e depois
 verifica se este cenário era realmente o esperado.
 
-*Manutenção*
+
+**Manutenção**
 
 A palavra soft (suave), pode referir-se ao conceito do mantenimento do software, onde o seus
 comportamentos devem ser fáceis de serem modificados e ou acrescentados.
@@ -122,6 +127,7 @@ desenvolvido. Podendo ocorrer mudanças por erros encontrados ou adaptações re
 pelo domínio da aplicação e ou então pelo próprio mercado de software. Tendo assim,
 potencial de ocorrer em projetos já idealmente desenvolvidos ou em desenvolvimento,
 replicando-se para cada etapa precedente do ciclo de vida de um software.
+
 
 ### Referências
 
