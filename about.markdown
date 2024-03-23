@@ -6,15 +6,7 @@ permalink: /sobre/
 
 Contruindo aqui...
 
-.
-.
-.
-.
-.
-.
-.
-
-#### Fila de leitura
+### Fila de leitura
 
 - **Lendo**
   - [Como escrever bem: O clássico manual americano de escrita jornalística e de não ficção](https://www.amazon.com.br/Como-escrever-bem-americano-jornal%C3%ADstica/dp/6589733511)
