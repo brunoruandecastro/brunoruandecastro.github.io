@@ -13,6 +13,6 @@ permalink: /fila-leitura/
     - Ivan Turguêniev, Rubens Figueiredo (Tradutor)
 
 ### Próximas
-  - [Minha lista)](https://docs.google.com/document/d/1sH21gRUXvUMKAeDhDXsKzrbIyq-pojsIRem2DALMJrw/edit?usp=sharing)
+  - [Minha lista](https://docs.google.com/document/d/1sH21gRUXvUMKAeDhDXsKzrbIyq-pojsIRem2DALMJrw/edit?usp=sharing)
 
 Caso queira me indicar alguma leitura, deixe nos comentários do documento ;)
