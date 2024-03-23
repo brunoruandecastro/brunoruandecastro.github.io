@@ -9,7 +9,6 @@ layout: post
 
 ### Eu criei isso aqui para expressar as vozes na minha cabeça :)
 
-
 A algum tempo que venho escrevendo sobre algumas coisas da vida com um todo. E achei justo poder escrever o quanto quiser e da forma personalizada que preferir, num espaço como esse, com cara de blog dos anos 2000, para chamar de meu (e do gitHub).
 
 
