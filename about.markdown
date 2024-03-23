@@ -25,4 +25,4 @@ Contruindo aqui...
     - Ivan Turguêniev, Rubens Figueiredo (Tradutor)
 
 - **Próximas**
-  - [Minha lista](https://docs.google.com/document/d/1sH21gRUXvUMKAeDhDXsKzrbIyq-pojsIRem2DALMJrw/edit?usp=sharing)
+  - [Minha lista. (caso queira me indicar alguma leitura, deixe no comentário do documento ;) )](https://docs.google.com/document/d/1sH21gRUXvUMKAeDhDXsKzrbIyq-pojsIRem2DALMJrw/edit?usp=sharing)
