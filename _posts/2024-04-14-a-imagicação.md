@@ -1,7 +1,7 @@
 ---
 share: true
 title: A imaginação
-date: 2024-04-07
+date: 2024-04-14
 
 filename: 2024-04-14-a-imagicação
 tags: 
