@@ -4,7 +4,7 @@ title: Uma Página e o Medo no Oceano
 date: 2024-05-01
 
 filename: 2024-05-01-uma-pagina-medo-oceano
-tags: 
+tags:
 layout: post
 ---
 
