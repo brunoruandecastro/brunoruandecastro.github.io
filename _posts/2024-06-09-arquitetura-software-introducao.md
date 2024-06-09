@@ -16,7 +16,7 @@ Portanto, apesar de poder ser difícil confirmar ou compreender a estrutura brut
 “A arquitetura é o conjunto de decisões que você queria ter tomado logo no início do projeto, mas, como todo mundo, não teve imaginação necessária.” — Ralph Johnson.
 Pode-se então delimitar o conceito de arquitetura de software como sendo: “uma disciplina que busca definir a estrutura geral do software, incluindo a divisão em módulos, a comunicação entre eles e os padrões de interação com o usuário.” (ROBERT, 2019).
 “A arquitetura representa as decisões significativas de design que moldam um sistema, onde a significância é medida pelo custo da mudança.” — Grady Booch.
-
+\\
 **O propósito da Arquitetura**
 
 Como descrito no tópico anterior, a arquitetura de software está pouco para a intuição desenvolvida sobre os aspectos de um prédio, como, por exemplo, a força imposta pela gravidade. Mas há um ponto onde as duas áreas compartilham uma única ideia: o mantenimento da funcionalidade. Não é comum observar hordas de trabalhadores dando manutenção em uma construção civil para manter ela em pé e funcionando, os defeitos surgem, em boa parte, por conta da simples passagem do tempo — com base na Lei da Entropia. 
