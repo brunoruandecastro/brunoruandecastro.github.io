@@ -28,3 +28,8 @@ Quando esse raciocínio aprofundado sobre o software não é abdicado, o esforç
 Ivar Jacobson argumenta que as arquiteturas de softwares são estruturas que suportam os casos de uso do sistema, ou seja, eles devem deixar estritamente explícito o domínio de uma aplicação. Pode-se então avaliar que, por exemplo, o uso limitado a frameworks para construção da arquitetura do software vai de encontro com os casos de uso de cada aplicação.
 Em paralelo a essa abordagem, a garantia da construção de uma casa com base em tijolos não é tida, em primeira instância, como essencial, mas a preocupação maior inicialmente é garantir que a casa seja ao menos utilizável para seu propósito. 
 Portanto, as boas arquiteturas devem ser centradas em casos de uso para que os arquitetos possam descrever com segurança as estruturas que suportam esses casos de uso, sem se comprometerem com frameworks, ferramentas e ambientes. (ROBERT, 2018).  Logo, identificar a melhor arquitetura para determinado sistema de software, dependendo das necessidades e dos requisitos temporais do sistema em questão, pode garantir o sucesso de um projeto.
+
+\
+### Referências
+
+BRUNO, R. C. Arquiteturas e Padrões de Projeto no Desenvolvimento de Software: Uma Análise Comparativa e Quantiva. 2023. Disponível em: [Meu Drive pessoal.](https://drive.google.com/file/d/1BBEyQYH-4xGppTguzkogAvD6wqnp-1JJ/view?usp=sharing)
