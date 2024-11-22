@@ -1,10 +1,10 @@
 ---
 share: true
 title: Ouvir é acreditar
-date: 2024-21-11
+date: 2024-11-21
 
 
-filename: 2024-21-11-ouvir-e-acreditar
+filename: 2024-11-21-ouvir-e-acreditar
 layout: post
 ---
 
