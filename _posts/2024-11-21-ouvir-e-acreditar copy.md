@@ -9,7 +9,10 @@ layout: post
 ---
 
 
-Em um impulso evolutivo em direção a eficiência, em vez de precisão, não desenvolvemos um alto grau de ceticismo quando nossas crenças eram sobre coisas que experenciávamos diretamente, particularmente quando nossa estava em jogo — é melhor prevenir quando consideramos se devemos acreditar que o farfalhar da grama é um leão.
+Em um impulso evolutivo em direção a eficiência, em vez de precisão, não desenvolvemos 
+um alto grau de ceticismo quando nossas crenças eram sobre coisas que experienciamos diretamente, 
+particularmente quando nossa vida estava em jogo — é melhor prevenir quando consideramos se devemos 
+acreditar que o farfalhar da grama é um leão.
 
 Infelizmente, a demanda atual por questionar uma enxurrada de informação mequetrefe, ainda segue esse sistema antigo — experimentar; acreditar que é verdade; e talvez e raramente questionar mais tarde.
 Não é preciso muito para qualquer um de nós acreditar em algo. E uma vez que isso acontece, proteger essa crença determina como tratamos as informações adicionais relevantes a ela — empurramos mais areia para o mesmo pote.
