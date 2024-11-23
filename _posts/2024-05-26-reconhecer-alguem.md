@@ -2,7 +2,6 @@
 share: true
 title: Reconhecer Alguém
 date: 2024-05-26
-
 filename: 2024-05-26-reconhecer-alguem
 layout: post
 ---
